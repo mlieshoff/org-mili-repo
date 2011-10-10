@@ -181,7 +181,7 @@
             <uniqueVersion>false</uniqueVersion>
         </repository>
         <snapshotRepository>
-            <id>org-mili-repo-snapshot</id>
+            <id>org-mili-repo-snapshots</id>
             <name>Maven Repo for org.mili (snapshots)</name>
             <url>svn:https://org-mili-repo.googlecode.com/svn/maven-repo/snapshots</url>
             <uniqueVersion>false</uniqueVersion>
