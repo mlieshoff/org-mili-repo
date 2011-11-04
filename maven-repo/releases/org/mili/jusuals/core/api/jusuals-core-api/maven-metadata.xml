@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mili.jusuals.core.api</groupId>
+  <artifactId>jusuals-core-api</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20111104210203</lastUpdated>
+  </versioning>
+</metadata>
