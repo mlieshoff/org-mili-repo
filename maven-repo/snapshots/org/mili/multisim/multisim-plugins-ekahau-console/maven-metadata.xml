@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mili.multisim</groupId>
+  <artifactId>multisim-plugins-ekahau-console</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140624085805</lastUpdated>
+  </versioning>
+</metadata>
